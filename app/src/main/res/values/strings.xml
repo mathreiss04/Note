@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Note1.0</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="passwordHint">Senha</string>
+    <string name="userNameHint">Login</string>
+    <string name="btnLogin">Logar</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="title_nova_nova">Nova Nota</string>
+    <string name="funcionando">Funcionando</string>
+    <string name="tituloNota">Título</string>
+    <string name="insiraAnotacao">Insira sua anotação...</string>
+    <string name="title_criar_conta">Crie Sua Conta</string>
+    <string name="digiteSenha">Digite sua senha</string>
+    <string name="confirmaSenha">Repita sua senha</string>
+    <string name="title_nota">Nota</string>
+    <string name="title_notaExcluida">Nota Excluida</string>
+    <string name="sincronizacao">Sincronizaçao</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Note</item>
+        <item>Lixeira</item>
+        <item>Login</item>
+        <item>Sincronização</item>
+    </string-array>
+</resources>

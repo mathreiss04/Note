@@ -1,0 +1,18 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Nota">
+
+    <item
+        android:id="@+id/editar"
+        android:icon="@drawable/save"
+        app:showAsAction="always"
+        android:title="@string/title_nova_nova"/>
+
+    <item
+        android:id="@+id/excluir"
+        android:icon="@drawable/lixeira"
+        app:showAsAction="always"
+        android:title="@string/title_nota"/>
+
+</menu>

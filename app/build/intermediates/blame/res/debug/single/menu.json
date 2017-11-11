@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_nova_nota.xml",
+        "source": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\src\\main\\res\\menu\\menu_nova_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_nota_excluida.xml",
+        "source": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\src\\main\\res\\menu\\menu_nota_excluida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_nota.xml",
+        "source": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\src\\main\\res\\menu\\menu_nota.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.0\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syllver\\Desktop\\Note1.6\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Syllver\\Desktop\\Note1.6\\Note1.0\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Syllver\\Desktop\\Note1.5\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Syllver\\Desktop\\Note1.5\\Note1.0\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.3\\Note1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Matheus\\AndroidStudioProjects\\Note1.3\\Note1.0\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

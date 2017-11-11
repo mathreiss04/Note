@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus\AndroidStudioProjects\Note1.0\app\libs\jtds-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fc4d17efa80dc375767b0c1006584175212e9dc">
+        <dex dex="C:\Users\Matheus\AndroidStudioProjects\Note1.0\app\build\intermediates\pre-dexed\debug\jtds-1.3.1_bb9e719356b2dc8cd4b238f3f74fce48953ba693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matheus\.android\build-cache\16c24a3c9aa0a7677f8e2ba5a313a2c695d40a35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\Matheus\AndroidStudioProjects\Note1.0\app\build\intermediates\pre-dexed\debug\classes_8ce5c6d26379081370becb8d1a935ca20fd975f5.jar" />
+    </item>
+
+</items>
